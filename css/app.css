@@ -1,0 +1,59 @@
+#site-nav {
+    margin-bottom: 6.0rem;
+}
+
+.navbar {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#tag {
+    margin-bottom: 0.5rem;
+}
+
+body {
+    background-image: url("../img/bg-callig-15-eee.png");
+}
+
+.row>* {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card {
+    width: 350px;
+    height: fit-content;
+    margin: 0.5rem;
+    /*border: 0.25px solid hsla(0, 0%, 0%, 0.5);*/
+}
+
+.ad300-center {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+}
+
+.ad250-center {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+}
+
+.btn, .btn:hover {
+    color: rgba(255, 255, 255, 0.65);
+    background-color: #2c3e50;
+    border-color: #2c3e50;
+}
+
+.btn:hover {
+    color: #fff;
+}
+
+p[dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+}

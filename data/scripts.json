@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "id": "1",
+      "title": "The Kufi Script",
+      "body": "Kufi is the oldest calligraphic form of the various Arabic scripts and consists of a modified form of the old Nabataean script. Kufi developed around the end of the 7th century in Kufa, Iraq, from which it takes its name, and other centres. Until about the 11th century it was the main script used to copy Qur'ans. Square or geometric Kufi is a very simplified rectangular style of Kufi widely used for tiling.",
+      "imgSrc": "scripts/kufi_smpl.png",
+      "url": "index.html?tag=Kufi",
+      "urlText": "See more Kufi examples"
+    },
+    {
+      "id": "2",
+      "title": "The Thuluth Script",
+      "body": "Thuluth (from Arabic: ثلث\u200E ṯhuluṯh \"one-third\") is a script variety of Islamic calligraphy invented by the Persian Ibn Muqlah Shirazi, which made its first appearance in the 11th century CE (fourth Hijri). The straight angular forms of Kufi script were replaced in the new script by curved and oblique lines. In Thuluth, one-third of each letter slopes, from which the name (meaning \"a third\" in Arabic) comes. It is a large and elegant, cursive script, used in medieval times on mosque decorations. Various calligraphic styles evolved from Thuluth through slight changes of form.",
+      "imgSrc": "scripts/thul_smpl.png",
+      "url": "index.html?tag=Thuluth",
+      "urlText": "See more Thuluth examples"
+    },
+    {
+      "id": "3",
+      "title": "The Naskh Script",
+      "body": "Naskh (Arabic: نسخ\u200E) is a calligraphic style for writing in the Arabic alphabet, thought to be invented by the calligrapher Ibn Muqlah Shirazi. The root of this Arabic term nasakh-a means \"to copy\". It either refers to the fact that it replaced its predecessor, Kufi script, or that this style allows faster copying of texts. With small modifications, it is the style most commonly used for printing Arabic, Persian, Pashto and Sindhi languages. This type of script was derived from Thuluth by introducing a number of modifications resulting in smaller size and greater delicacy. It is written using a small, very fine pen known as a cava pen, which makes the script eminently suitable for use in book production. It was and is a very widely used form of script. Computers typically use Naskh or a Naskh-like script.",
+      "imgSrc": "scripts/naskh_smpl.png",
+      "url": "index.html?tag=Naskh",
+      "urlText": "See more Naskh examples"
+    },
+    {
+      "id": "4",
+      "title": "The Ruqʿah Script",
+      "body": "Ruqʿah or Riqʿah (Arabic: رقعة\u200E) is a calligraphic variety of Arabic script. The Ruqʿah style of handwriting is the most common type of handwriting. It is known for its clipped letters composed of short, straight lines and simple curves, as well as its straight and even lines of text. It was probably derived from the Thuluth and Naskh styles. It is clear and legible, and is the easiest script for daily handwriting.",
+      "imgSrc": "scripts/riqa_smpl.png",
+      "url": "index.html?tag=Ruqah",
+      "urlText": "See more Ruqʿah examples"
+    },
+    {
+      "id": "5",
+      "title": "The Diwani Script",
+      "body": "Diwani is a calligraphic variety of Arabic script, a cursive style developed during the reign of the early Ottoman Turks (16th century - early 17th century).  It was invented by Housam Roumi and reached its height of popularity under Süleyman I the Magnificent (1520–1566).  It was labeled the Diwani script because it was used in the Ottoman diwan (chief revenue officer of a province) and was one of the secrets of the sultan's palace. The rules of this script were not known to everyone, but confined to its masters and a few bright students. It was used in the writing of all royal decrees, endowments, and resolutions.  Diwani is marked by beauty and harmony, and accurate small samples are considered more beautiful than larger ones. It is still used in the correspondence of kings, princes, presidents, and in ceremonies and greeting cards. and has a high artistic value.",
+      "imgSrc": "scripts/diwan_smpl.png",
+      "url": "index.html?tag=Diwani",
+      "urlText": "See more Diwani examples"
+    },
+    {
+      "id": "6",
+      "title": "The Farsi Script",
+      "body": "Farsi (also known as Nastaʿlīq) is one of the main calligraphic hands used in writing the Perso-Arabic script, and traditionally the predominant style in Persian calligraphy.  It was developed in Iran in the 8th and 9th centuries. It is sometimes used to write Arabic-language text and is mainly used for titles and headings, but its use has always been more popular in the Persian, Turkic, Urdu and other South Asian spheres of influence.  Nastaʿlīq has extensively been (and still is) practiced in Iran, Pakistan and Afghanistan for written poetry and as a form of art. It is amongst the most fluid calligraphy styles for the Arabic alphabet. It has short verticals with no serifs, and long horizontal strokes. ",
+      "imgSrc": "scripts/farsi_smpl.png",
+      "url": "index.html?tag=Farsi",
+      "urlText": "See more Farsi examples"
+    }
+  ]
+}
