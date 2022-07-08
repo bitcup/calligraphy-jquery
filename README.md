@@ -1,1 +1,1 @@
-# calligraphy-jquary
+# calligraphy-jquery
