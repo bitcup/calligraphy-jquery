@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/calligraphy-jquary.iml" filepath="$PROJECT_DIR$/.idea/calligraphy-jquary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/calligraphy-jquery.iml" filepath="$PROJECT_DIR$/.idea/calligraphy-jquery.iml" />
     </modules>
   </component>
 </project>
