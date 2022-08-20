@@ -41,7 +41,7 @@ function randomIntFromInterval(min, max) { // min and max included
 }
 
 function getApiEndpoint(artist, pageSize, page, tag) {
-    let host='http://calligapi-env.eba-zmk2mxfq.us-east-1.elasticbeanstalk.com';
+    let host='https://calligraphy-api.herokuapp.com';
     // let host='http://localhost:8080';
     let endpoint = `${host}/api/v1/artworks?artist=${artist}&pageSize=${pageSize}&page=${page}`;
     if (tag) {
