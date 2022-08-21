@@ -75,8 +75,8 @@ jQuery(document).ready(function ($) {
         console.log(JSON.stringify(json))
         // inject ad content marker in the json data
         let adIndex = randomIntFromInterval(0, 3);
-        json.splice(adIndex, 0, {"type": "ad"});
-        // console.log(json);
+        json.splice(adIndex, 0, {"type": "ad", "tags": []});
+        // console.log("------------------>>> " + JSON.stringify(json));
 
         for (let i = 0; i < json.length; i++) {
             if (!tag || json[i].tags.includes(tag)) {
