@@ -75,7 +75,7 @@ jQuery(document).ready(function ($) {
         console.log(JSON.stringify(json))
         // inject ad content marker in the json data
         let adIndex = randomIntFromInterval(0, 3);
-        // json.splice(adIndex, 0, {"type": "ad"});
+        json.splice(adIndex, 0, {"type": "ad"});
         // console.log(json);
 
         for (let i = 0; i < json.length; i++) {
